@@ -1,0 +1,15 @@
+  ---MINIMUM SPECS (specifications)
+  --CPU
+  -Any Intel cpu (NOT A PENTIUM)
+  -Any AMD cpu should be ok
+  --GPU
+  -NVIDIA : GeForce 6500
+  -AMD: AMD Radeon RX 570
+  --RAM
+  -Anything above 2GB
+  --OS
+  -Windows 7
+  --Storage
+  -1GB
+  --Direct X
+  -Version 11
