@@ -13,3 +13,5 @@
   -1GB
   --Direct X
   -Version 11
+  --Screen Resolution
+  -1280x720
